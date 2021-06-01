@@ -30,7 +30,7 @@ export class Home extends Component {
                       {this.props.name}
                     </Card.Text>
                 </Card.Body>
-                <Card/>
+                </Card>
       }
         <SelecedPicture show={this.props.show}
           Title={this.props.gander}
